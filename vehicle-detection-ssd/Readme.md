@@ -1,5 +1,5 @@
 # Vehicle detection and tracking using pretrained SSD model
-In this project, we used a pretrained ssd300 model to detect and track cars in a video. 
+In this project, we used a pretrained ssd300 model to detect and track cars in a video. This work is maily based on 4th reference and you can download weights from there.
 
 Youtube link of video result:
 -https://youtu.be/gPMG2ATfcdA
